@@ -124,7 +124,7 @@ body {
 
   .left-menu.show {
     transform: translateY(calc(200vh + 60px));
-    height: 100vh;
+    height: 75vh;
     opacity: 1;
   }
   .left-menu.close {
